@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a7c662-9bee-4324-8aad-04d5455f9311" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="04a7c662-9bee-4324-8aad-04d5455f9311" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="35" column="58" lean-forward="true" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+            <state relative-caret-position="289">
+              <caret line="28" column="103" lean-forward="true" selection-start-line="28" selection-start-column="103" selection-end-line="28" selection-end-column="103" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -28,8 +38,8 @@
       <file leaf-file-name="site_go.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site_go.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -39,6 +49,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -46,13 +63,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test_10.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="6" />
+    <option name="width" value="959" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -89,7 +107,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.py.test for test_10.test_menu">
+    <configuration name="py.test for test_10.test_menu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test-repository-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_10.test_menu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test_10.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="test-repository-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_10.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration name="py.test in test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test-repository-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,8 +150,14 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.py.test in test.py" />
+      <item itemvalue="Python tests.py.test in test_10.py" />
+      <item itemvalue="Python tests.py.test for test_10.test_menu" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test for test_10.test_menu" />
         <item itemvalue="Python tests.py.test in test.py" />
       </list>
     </recent_temporary>
@@ -124,35 +176,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 22m 16s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 34m 06s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 22m 47s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.02 at 16h 34m 12s.xml">
+      <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 37m 28s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.02 at 16h 34m 17s.xml">
+      <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 37m 48s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 43m 48s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 38m 58s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 43m 58s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 39m 37s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 51m 20s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 40m 14s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 28s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 40m 47s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 42s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 41m 38s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 48s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_py - 2018.07.30 at 17h 48m 30s.xml">
-      <configuration name="py.test in test.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 52s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -187,16 +239,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site_go.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/litecart/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -206,8 +248,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="35" column="58" lean-forward="true" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        <state relative-caret-position="289">
+          <caret line="28" column="103" lean-forward="true" selection-start-line="28" selection-start-column="103" selection-end-line="28" selection-end-column="103" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_go.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
