@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a7c662-9bee-4324-8aad-04d5455f9311" name="Default" comment="" />
+    <list default="true" id="04a7c662-9bee-4324-8aad-04d5455f9311" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/test_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_10.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="test_10.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="162" column="24" lean-forward="true" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="24" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -107,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_10.test_menu">
+  <component name="RunManager" selected="Python tests.py.test for test_10.test_title_and_price">
     <configuration name="py.test for test_10.test_menu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test-repository-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +122,20 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_10.test_menu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test_10.test_title_and_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test-repository-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_10.test_title_and_price&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="py.test in test_10.py" type="tests" factoryName="py.test" nameIsGenerated="true">
@@ -154,9 +170,11 @@
       <item itemvalue="Python tests.py.test in test.py" />
       <item itemvalue="Python tests.py.test in test_10.py" />
       <item itemvalue="Python tests.py.test for test_10.test_menu" />
+      <item itemvalue="Python tests.py.test for test_10.test_title_and_price" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test for test_10.test_title_and_price" />
         <item itemvalue="Python tests.py.test for test_10.test_menu" />
         <item itemvalue="Python tests.py.test in test.py" />
       </list>
@@ -176,35 +194,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 34m 06s.xml">
+    <history-entry file="py_test_in_test_10_py - 2018.08.03 at 14h 02m 32s.xml">
       <configuration name="py.test in test_10.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_10_test_menu - 2018.08.02 at 16h 34m 12s.xml">
+    <history-entry file="py_test_in_test_10_py - 2018.08.03 at 14h 02m 37s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_10_py - 2018.08.03 at 14h 02m 42s.xml">
+      <configuration name="py.test in test_10.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.03 at 14h 04m 13s.xml">
       <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_10_test_menu - 2018.08.02 at 16h 34m 17s.xml">
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.03 at 14h 04m 26s.xml">
       <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 43m 48s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.03 at 14h 04m 32s.xml">
+      <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 43m 58s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.03 at 14h 04m 37s.xml">
+      <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 51m 20s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.03 at 14h 04m 45s.xml">
+      <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 28s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_menu - 2018.08.03 at 14h 04m 50s.xml">
+      <configuration name="py.test for test_10.test_menu" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 42s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 48s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_10_py - 2018.08.02 at 16h 54m 52s.xml">
-      <configuration name="py.test in test_10.py" configurationId="tests" />
+    <history-entry file="py_test_for_test_10_test_title_and_price - 2018.08.03 at 14h 05m 50s.xml">
+      <configuration name="py.test for test_10.test_title_and_price" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -268,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="162" column="24" lean-forward="true" selection-start-line="162" selection-start-column="24" selection-end-line="162" selection-end-column="24" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
