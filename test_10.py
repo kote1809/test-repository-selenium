@@ -12,7 +12,7 @@ def test_title_and_price(driver):
     #переход на главную
     driver.get("http://localhost/litecart/en/")
 
-    # название товара на главной странице
+    #название товара на главной странице
     first_element = driver.find_element_by_xpath("//div[@id='box-most-popular']/div/ul/li[1]/a[1]/div[1]/img")
     title_hp = first_element.get_attribute('alt')
 
