@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04a7c662-9bee-4324-8aad-04d5455f9311" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_10.py" afterDir="false" />
-    </list>
+    <list default="true" id="04a7c662-9bee-4324-8aad-04d5455f9311" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_11.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_11.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="17">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_12.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -80,6 +90,7 @@
         <option value="$PROJECT_DIR$/test_10.py" />
         <option value="$PROJECT_DIR$/anna_10.py" />
         <option value="$PROJECT_DIR$/test_11.py" />
+        <option value="$PROJECT_DIR$/test_12.py" />
       </list>
     </option>
   </component>
@@ -124,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_11.py">
+  <component name="RunManager" selected="Python tests.py.test in test_12.py">
     <configuration name="py.test for anna_10.test_product" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test-repository-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,20 +148,6 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;anna_10.test_product&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test for test_10.test_menu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="test-repository-selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_10.test_menu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="py.test for test_10.test_title_and_price" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -209,21 +206,35 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_11.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="py.test in test_12.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test-repository-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_12.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list>
       <item itemvalue="Python tests.py.test in test_10.py" />
-      <item itemvalue="Python tests.py.test for test_10.test_menu" />
       <item itemvalue="Python tests.py.test for test_10.test_title_and_price" />
       <item itemvalue="Python tests.py.test for anna_10.test_product" />
       <item itemvalue="Python tests.py.test in anna_10.py" />
       <item itemvalue="Python tests.py.test in test_11.py" />
+      <item itemvalue="Python tests.py.test in test_12.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test in test_12.py" />
         <item itemvalue="Python tests.py.test in test_11.py" />
         <item itemvalue="Python tests.py.test for test_10.test_title_and_price" />
         <item itemvalue="Python tests.py.test in anna_10.py" />
         <item itemvalue="Python tests.py.test for anna_10.test_product" />
-        <item itemvalue="Python tests.py.test for test_10.test_menu" />
       </list>
     </recent_temporary>
   </component>
@@ -241,35 +252,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 11h 36m 55s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 14m 19s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 11h 37m 58s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 15m 00s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 11h 50m 21s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 15m 28s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 11h 51m 04s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 15m 48s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 12h 02m 03s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 16m 42s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 12h 13m 28s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 17m 39s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 12h 14m 47s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 18m 17s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 12h 15m 42s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 21m 08s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 12h 19m 37s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 22m 00s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_11_py - 2018.08.06 at 12h 19m 50s.xml">
-      <configuration name="py.test in test_11.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_12_py - 2018.08.07 at 10h 23m 35s.xml">
+      <configuration name="py.test in test_12.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -353,8 +364,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="17">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
