@@ -62,7 +62,7 @@ def test_open_new_window(driver):
             #делаем новое окно активным
             driver.switch_to_window(handles_new[1])
             #смотрим на него две секунды
-            time.sleep(2)
+            time.sleep(0.5)
             #закрываем это окно
             driver.close()
             #делаем активным предыдущее окно
